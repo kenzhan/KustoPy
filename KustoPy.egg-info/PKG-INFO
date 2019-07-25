@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: KustoPy
+Version: 0.1
+Summary: A collection of utility function for Azure Data Explorer (Kusto)
+Home-page: https://github.com/kenzhan/KustoPy
+Author: Ken
+Author-email: kenneth_zh@msn.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: pip,Kusto,Azure Data Explorer
+Platform: UNKNOWN

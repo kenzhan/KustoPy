@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+KustoPy.egg-info/PKG-INFO
+KustoPy.egg-info/SOURCES.txt
+KustoPy.egg-info/dependency_links.txt
+KustoPy.egg-info/top_level.txt
